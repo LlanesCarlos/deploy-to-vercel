@@ -71,7 +71,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'python_heroku_task.wsgi.application'
+WSGI_APPLICATION = 'python_heroku_task.wsgi.app'
 
 
 # Database
